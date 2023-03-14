@@ -1,0 +1,11 @@
+{
+  "name": "cc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cronos.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^6.0.8"
+  }
+}
